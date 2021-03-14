@@ -1,6 +1,5 @@
 {
-  "homepage": "http://stografo.github.io/www.codestografo.com",
-  "name": "codegames",
+  "homepage": "http://stografo.github.io/codestografo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
