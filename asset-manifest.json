@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/www.codestografo.com/static/css/main.4a8478e9.chunk.css",
-    "main.js": "/www.codestografo.com/static/js/main.4d639056.chunk.js",
-    "main.js.map": "/www.codestografo.com/static/js/main.4d639056.chunk.js.map",
-    "runtime-main.js": "/www.codestografo.com/static/js/runtime-main.4b391153.js",
-    "runtime-main.js.map": "/www.codestografo.com/static/js/runtime-main.4b391153.js.map",
+    "main.css": "/www.codestografo.com/static/css/main.e6da5e70.chunk.css",
+    "main.js": "/www.codestografo.com/static/js/main.aaa29331.chunk.js",
+    "main.js.map": "/www.codestografo.com/static/js/main.aaa29331.chunk.js.map",
+    "runtime-main.js": "/www.codestografo.com/static/js/runtime-main.44e066f7.js",
+    "runtime-main.js.map": "/www.codestografo.com/static/js/runtime-main.44e066f7.js.map",
     "static/js/2.952c7059.chunk.js": "/www.codestografo.com/static/js/2.952c7059.chunk.js",
     "static/js/2.952c7059.chunk.js.map": "/www.codestografo.com/static/js/2.952c7059.chunk.js.map",
-    "static/js/3.7aae7ced.chunk.js": "/www.codestografo.com/static/js/3.7aae7ced.chunk.js",
-    "static/js/3.7aae7ced.chunk.js.map": "/www.codestografo.com/static/js/3.7aae7ced.chunk.js.map",
+    "static/js/3.a768df75.chunk.js": "/www.codestografo.com/static/js/3.a768df75.chunk.js",
+    "static/js/3.a768df75.chunk.js.map": "/www.codestografo.com/static/js/3.a768df75.chunk.js.map",
     "index.html": "/www.codestografo.com/index.html",
-    "static/css/main.4a8478e9.chunk.css.map": "/www.codestografo.com/static/css/main.4a8478e9.chunk.css.map",
+    "static/css/main.e6da5e70.chunk.css.map": "/www.codestografo.com/static/css/main.e6da5e70.chunk.css.map",
     "static/js/2.952c7059.chunk.js.LICENSE.txt": "/www.codestografo.com/static/js/2.952c7059.chunk.js.LICENSE.txt",
     "static/media/logo.5bbf28b1.svg": "/www.codestografo.com/static/media/logo.5bbf28b1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b391153.js",
+    "static/js/runtime-main.44e066f7.js",
     "static/js/2.952c7059.chunk.js",
-    "static/css/main.4a8478e9.chunk.css",
-    "static/js/main.4d639056.chunk.js"
+    "static/css/main.e6da5e70.chunk.css",
+    "static/js/main.aaa29331.chunk.js"
   ]
 }
