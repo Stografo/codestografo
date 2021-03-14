@@ -1,0 +1,27 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+input {
+  background-color: #ffc500;
+  color: #fff;
+  width: auto;
+  height: auto;
+  border-radius: 7px;
+  font-size: large;
+  font-family: "Press Start 2P", cursive;
+  letter-spacing: 3px;
+  text-shadow: 2px -1px #5c553e;
+  padding: 10px;
+  box-shadow: 3px 5px #c6571b;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+input:active {
+  color: #ffc500;
+  background-color: #b08d1c;
+  box-shadow: 0 2px #ffc500;
+  transform: translateY(4px);
+  transition-duration: 0.03s;
+}
