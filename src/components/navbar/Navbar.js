@@ -2,6 +2,8 @@ import React from 'react'
 import Logo from '../../assets/branging/logo.svg'
 import './Navbar.css'
 import StarButton from '../starButton/StarButton'
+import Menu from './menu/Menu'
+
 
 
 function Navbar(){
@@ -11,7 +13,7 @@ function Navbar(){
 
         <div className="div-logo">
 
-            <a href="#"> 
+            <a href="/"> 
 
                  <img src={Logo} alt="CodeStografo svg logo"/> 
 
@@ -19,29 +21,7 @@ function Navbar(){
 
         </div>
         <div className="div-menu">
-
-        <input className="menu-btn" type="checkbox" id="menu-btn"/>
-
-            <label className="menu-icon" for="menu-btn">
-
-                <span className="navicon"></span>
-
-            </label>
-        
-            <ul className="menu">
-                <li>
-                    <a> CURSES </a>
-                </li>
-                <li>
-                    <a>  Resources</a>
-                    
-                </li>
-                <li>
-                    <a>About</a>
-                    
-                </li>
-                
-            </ul>
+            <Menu/>
 
         </div>
            
